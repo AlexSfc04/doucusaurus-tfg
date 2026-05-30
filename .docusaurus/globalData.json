@@ -1,0 +1,83 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "arquitectura",
+              "path": "/arquitectura",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "backend/api-endpoints",
+              "path": "/backend/api-endpoints",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "backend/autenticacion",
+              "path": "/backend/autenticacion",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "decisiones",
+              "path": "/decisiones",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "despliegue",
+              "path": "/despliegue",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "frontend/componentes",
+              "path": "/frontend/componentes",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "frontend/estructura",
+              "path": "/frontend/estructura",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "github",
+              "path": "/github",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "local",
+              "path": "/local",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "uso",
+              "path": "/uso",
+              "sidebar": "mainSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "mainSidebar": {
+              "link": {
+                "path": "/",
+                "label": "🏠 Introducción"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

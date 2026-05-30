@@ -1,0 +1,29 @@
+{
+  "id": "uso",
+  "title": "Uso de la aplicación",
+  "description": "Guía paso a paso para usuarios nuevos de StudiosWebSites.",
+  "source": "@site/docs/uso.md",
+  "sourceDirName": ".",
+  "slug": "/uso",
+  "permalink": "/uso",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlexSfc04/StudiosWebSites/edit/main/docs/docs/uso.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "uso",
+    "title": "Uso de la aplicación",
+    "sidebar_position": 5
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Componentes principales",
+    "permalink": "/frontend/componentes"
+  },
+  "next": {
+    "title": "💻 Lanzamiento en local",
+    "permalink": "/local"
+  }
+}

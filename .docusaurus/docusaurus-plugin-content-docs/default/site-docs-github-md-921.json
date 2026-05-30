@@ -1,0 +1,29 @@
+{
+  "id": "github",
+  "title": "GitHub",
+  "description": "Tipo de repositorio",
+  "source": "@site/docs/github.md",
+  "sourceDirName": ".",
+  "slug": "/github",
+  "permalink": "/github",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlexSfc04/StudiosWebSites/edit/main/docs/docs/github.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "id": "github",
+    "title": "GitHub",
+    "sidebar_position": 8
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "☁️ Despliegue en la nube",
+    "permalink": "/despliegue"
+  },
+  "next": {
+    "title": "🧩 Decisiones de diseño",
+    "permalink": "/decisiones"
+  }
+}

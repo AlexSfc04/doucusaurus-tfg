@@ -1,0 +1,29 @@
+{
+  "id": "frontend/componentes",
+  "title": "Componentes principales",
+  "description": "Hero",
+  "source": "@site/docs/frontend/componentes.md",
+  "sourceDirName": "frontend",
+  "slug": "/frontend/componentes",
+  "permalink": "/frontend/componentes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlexSfc04/StudiosWebSites/edit/main/docs/docs/frontend/componentes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "componentes",
+    "title": "Componentes principales",
+    "sidebar_position": 2
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Estructura del proyecto",
+    "permalink": "/frontend/estructura"
+  },
+  "next": {
+    "title": "📖 Uso de la aplicación",
+    "permalink": "/uso"
+  }
+}

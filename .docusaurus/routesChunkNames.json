@@ -1,0 +1,102 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/-e04": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---aba-d70"
+    }
+  },
+  "/-0ef": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---22-d-307"
+  },
+  "/-3c6": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/arquitectura-a01": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---arquitecturac-8-e-31f"
+  },
+  "/backend/api-endpoints-50c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---backend-api-endpoints-0-c-8-d59"
+  },
+  "/backend/autenticacion-7f3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---backend-autenticacion-416-6b7"
+  },
+  "/decisiones-6c8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---decisionesdd-0-106"
+  },
+  "/despliegue-63e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---desplieguefb-1-30a"
+  },
+  "/frontend/componentes-4d9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-componentesb-4-c-37f"
+  },
+  "/frontend/estructura-66c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-estructura-080-766"
+  },
+  "/github-047": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---github-921-cf6"
+  },
+  "/local-968": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---local-292-371"
+  },
+  "/uso-7d8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---uso-58-c-923"
+  },
+  "/-c02": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---c-37-d02"
+  }
+}

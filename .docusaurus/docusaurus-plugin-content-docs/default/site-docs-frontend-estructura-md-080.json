@@ -1,0 +1,29 @@
+{
+  "id": "frontend/estructura",
+  "title": "Estructura del proyecto",
+  "description": "El frontend está construido con React 18 + Vite como herramienta de build.",
+  "source": "@site/docs/frontend/estructura.md",
+  "sourceDirName": "frontend",
+  "slug": "/frontend/estructura",
+  "permalink": "/frontend/estructura",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlexSfc04/StudiosWebSites/edit/main/docs/docs/frontend/estructura.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "estructura",
+    "title": "Estructura del proyecto",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Autenticación y Seguridad",
+    "permalink": "/backend/autenticacion"
+  },
+  "next": {
+    "title": "Componentes principales",
+    "permalink": "/frontend/componentes"
+  }
+}

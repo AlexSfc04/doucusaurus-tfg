@@ -1,0 +1,25 @@
+{
+  "id": "decisiones",
+  "title": "Decisiones de diseño",
+  "description": "Detalles sobre decisiones técnicas relevantes tomadas durante el desarrollo.",
+  "source": "@site/docs/decisiones.md",
+  "sourceDirName": ".",
+  "slug": "/decisiones",
+  "permalink": "/decisiones",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlexSfc04/StudiosWebSites/edit/main/docs/docs/decisiones.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "id": "decisiones",
+    "title": "Decisiones de diseño",
+    "sidebar_position": 9
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "🐙 GitHub",
+    "permalink": "/github"
+  }
+}

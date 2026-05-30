@@ -1,0 +1,29 @@
+{
+  "id": "despliegue",
+  "title": "Despliegue en la nube",
+  "description": "StudiosWebSites está desplegado usando Vercel (frontend + backend) y Railway (base de datos).",
+  "source": "@site/docs/despliegue.md",
+  "sourceDirName": ".",
+  "slug": "/despliegue",
+  "permalink": "/despliegue",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlexSfc04/StudiosWebSites/edit/main/docs/docs/despliegue.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "despliegue",
+    "title": "Despliegue en la nube",
+    "sidebar_position": 7
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "💻 Lanzamiento en local",
+    "permalink": "/local"
+  },
+  "next": {
+    "title": "🐙 GitHub",
+    "permalink": "/github"
+  }
+}

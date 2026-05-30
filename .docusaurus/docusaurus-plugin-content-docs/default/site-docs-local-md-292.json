@@ -1,0 +1,29 @@
+{
+  "id": "local",
+  "title": "Lanzamiento en local",
+  "description": "Instrucciones para ejecutar StudiosWebSites en tu máquina de desarrollo.",
+  "source": "@site/docs/local.md",
+  "sourceDirName": ".",
+  "slug": "/local",
+  "permalink": "/local",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlexSfc04/StudiosWebSites/edit/main/docs/docs/local.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "local",
+    "title": "Lanzamiento en local",
+    "sidebar_position": 6
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "📖 Uso de la aplicación",
+    "permalink": "/uso"
+  },
+  "next": {
+    "title": "☁️ Despliegue en la nube",
+    "permalink": "/despliegue"
+  }
+}

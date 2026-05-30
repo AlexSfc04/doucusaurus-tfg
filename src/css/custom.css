@@ -1,0 +1,30 @@
+:root {
+  --ifm-color-primary: #6c8fff;
+  --ifm-color-primary-dark: #4d78ff;
+  --ifm-color-primary-darker: #3d6bff;
+  --ifm-color-primary-darkest: #1a52ff;
+  --ifm-color-primary-light: #8ba6ff;
+  --ifm-color-primary-lighter: #9ab2ff;
+  --ifm-color-primary-lightest: #c4d2ff;
+  --ifm-code-font-size: 90%;
+  --docusaurus-highlighted-code-line-bg: rgba(108, 143, 255, 0.1);
+  --ifm-font-family-base: "Work Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --ifm-heading-font-family: "Instrument Serif", Georgia, serif;
+}
+
+[data-theme="dark"] {
+  --ifm-background-color: #0f1117;
+  --ifm-background-surface-color: #161b27;
+  --ifm-color-primary: #6c8fff;
+  --ifm-navbar-background-color: #0f1117;
+  --ifm-footer-background-color: #0d1117;
+  --ifm-code-background: #1e2538;
+}
+
+.navbar {
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+}
+
+article h1 {
+  font-style: italic;
+}

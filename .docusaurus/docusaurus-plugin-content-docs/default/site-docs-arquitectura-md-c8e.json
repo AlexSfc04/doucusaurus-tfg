@@ -1,0 +1,29 @@
+{
+  "id": "arquitectura",
+  "title": "Arquitectura",
+  "description": "Modelo cliente/servidor",
+  "source": "@site/docs/arquitectura.md",
+  "sourceDirName": ".",
+  "slug": "/arquitectura",
+  "permalink": "/arquitectura",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlexSfc04/StudiosWebSites/edit/main/docs/docs/arquitectura.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "arquitectura",
+    "title": "Arquitectura",
+    "sidebar_position": 2
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "🏠 Introducción",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Endpoints de la API",
+    "permalink": "/backend/api-endpoints"
+  }
+}

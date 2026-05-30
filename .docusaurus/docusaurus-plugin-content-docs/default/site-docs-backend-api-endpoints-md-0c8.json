@@ -1,0 +1,29 @@
+{
+  "id": "backend/api-endpoints",
+  "title": "Endpoints de la API",
+  "description": "La API base se encuentra en https://studioswebsites-api.vercel.app/api.",
+  "source": "@site/docs/backend/api-endpoints.md",
+  "sourceDirName": "backend",
+  "slug": "/backend/api-endpoints",
+  "permalink": "/backend/api-endpoints",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlexSfc04/StudiosWebSites/edit/main/docs/docs/backend/api-endpoints.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "api-endpoints",
+    "title": "Endpoints de la API",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "🏗️ Arquitectura",
+    "permalink": "/arquitectura"
+  },
+  "next": {
+    "title": "Autenticación y Seguridad",
+    "permalink": "/backend/autenticacion"
+  }
+}

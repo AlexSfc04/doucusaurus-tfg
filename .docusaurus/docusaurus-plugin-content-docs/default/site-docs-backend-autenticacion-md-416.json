@@ -1,0 +1,29 @@
+{
+  "id": "backend/autenticacion",
+  "title": "Autenticación y Seguridad",
+  "description": "Mecanismos de autenticación",
+  "source": "@site/docs/backend/autenticacion.md",
+  "sourceDirName": "backend",
+  "slug": "/backend/autenticacion",
+  "permalink": "/backend/autenticacion",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlexSfc04/StudiosWebSites/edit/main/docs/docs/backend/autenticacion.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "autenticacion",
+    "title": "Autenticación y Seguridad",
+    "sidebar_position": 2
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Endpoints de la API",
+    "permalink": "/backend/api-endpoints"
+  },
+  "next": {
+    "title": "Estructura del proyecto",
+    "permalink": "/frontend/estructura"
+  }
+}
